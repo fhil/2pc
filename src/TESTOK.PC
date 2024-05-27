@@ -1,0 +1,1022 @@
+	pushf
+	xchg cx,bx
+	MOV [bx],al
+	xchg cx,bx
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+NEEDEDMEMMANVERSION EQU 0204h
+
+	OFF_HL	NAAM+5 NAAM*5
+
+	GLOBAL NAAM
+
+	 PUBLIC NAAM
+
+	 EXTRN NAAM,NAAM1,NAAMS2
+
+IFNDEF	NAAM
+
+;DB 'Frits Hilderink',$,NAAM , NAAM , $100, NAAM * NAAM
+
+; Dit is een tekstje
+; Dit is een tekstje
+; Dit is een tekstje
+; Dit is een tekstje
+; Dit is een tekstje
+; Dit is een tekstje
+
+; store instructions ------------------------------------------------
+
+
+	; .Z80
+	MOV cx,-1024
+	; ASEG
+	; ORG NAAM*NAAM
+;NAM EQU $ - 100 * 100
+;NAAM :
+
+	INCLUDE HAA.HASDF.ASD1324
+	DB 'NAAM'
+	DB NAAM
+	IFDEF FRITS
+	ENDIF
+	ELSE
+
+		jmp word ptr L0213
+
+	db 15 dup (0)
+	DC 'NAAM'
+
+AF_:	DW 0
+NAAM:	DW 0
+CON	EQU 0
+
+__EXX:	RET
+
+__LDIR: RET
+__LDI:	RET
+__LDDR: RET
+__LDD:	RET
+__CPIR: RET
+__CPI:	RET
+__CPDR: RET
+__CPD:	RET
+	xchg cx,bx
+	MOV [bx],al
+	xchg cx,bx		; LD (BC),A
+	xchg dx,bx
+	MOV [bx],al
+	xchg dx,bx		; LD (DE),A
+
+	MOV byte ptr [bx],al		; LD (HL),A
+	MOV byte ptr [bx],ch		; LD (HL),B
+	MOV byte ptr [bx],cl		; LD (HL),C
+	MOV byte ptr [bx],dh		; LD (HL),D
+	MOV byte ptr [bx],dl		; LD (HL),E
+	MOV byte ptr [bx],bh		; LD (HL),H
+	MOV byte ptr [bx],bl		; LD (HL),L
+	MOV byte ptr [bx],50 *2		; LD (HL),50 *2
+
+L01E8:	MOV word ptr NAAM + 5 , sp	; LD (NAAM + 5 ), SP
+	MOV word ptr NAAM + 5 , cx	; LD (NAAM + 5 ), BC
+	MOV word ptr NAAM + 5 , dx	; LD (NAAM + 5 ), DE
+	MOV word ptr NAAM + 5 , bx	; LD (NAAM + 5 ), HL
+	MOV word ptr NAAM + 5 , si	; LD (NAAM + 5 ), IX
+	MOV word ptr NAAM + 5 , di	; LD (NAAM + 5 ), IY
+
+	MOV byte ptr NAAM + 5000 ,al	; LD (NAAM + 5000) ,A
+	MOV byte ptr [si + NAAM+5],5 * 6	; LD (IX + NAAM+5),5 * 6
+	MOV byte ptr [ di + NAAM + 1 ], al ; LD ( IY + NAAM + 1 ), A
+	MOV byte ptr [ di + NAAM + 1 ], ch ; LD ( IY + NAAM + 1 ), B
+	MOV byte ptr [ di + NAAM + 1 ], cl ; LD ( IY + NAAM + 1 ), C
+	MOV byte ptr [ di + NAAM + 1 ], dh ; LD ( IY + NAAM + 1 ), D
+	MOV byte ptr [ di + NAAM + 1 ], dl ; LD ( IY + NAAM + 1 ), E
+	MOV byte ptr [ di + NAAM + 1 ], bh ; LD ( IY + NAAM + 1 ), H
+	MOV byte ptr [ di + NAAM + 1 ], bl ; LD ( IY + NAAM + 1 ), L
+	MOV byte ptr [si + NAAM + 2 ] , al ; LD (IX + NAAM + 2 ) , A
+
+; load instructions -------------------------------------------------
+
+	MOV al,al			; LD A,A
+	MOV al,ch			; LD A,B
+	MOV al,cl			; LD A,C
+	MOV al,dh			; LD A,D
+	MOV al,dl			; LD A,E
+	MOV al,bh			; LD A,H
+	MOV al,bl			; LD A,L
+
+	MOV al,bl			; LD A,L
+	MOV ch,bh			; LD B,H
+	MOV cl,dl			; LD C,E
+	MOV dh,dh			; LD D,D
+	MOV dl,cl			; LD E,C
+	MOV bh,ch			; LD H,B
+	MOV bl,al			; LD L,A
+
+	; ---- MOV al,I			; LD A,I
+	; ---- MOV al,R			; LD A,R
+	xchg cx,bx
+	MOV al,[bx]
+	xchg cx,bx		; LD A,(BC)
+	xchg dx,bx
+	MOV al,[bx]
+	xchg dx,bx		; LD A,(DE)
+
+	MOV al,byte ptr [bx]		; LD A,(HL)
+	MOV ch,byte ptr [bx]		; LD B,(HL)
+	MOV cl,byte ptr [bx]		; LD C,(HL)
+	MOV dh,byte ptr [bx]		; LD D,(HL)
+	MOV dl,byte ptr [bx]		; LD E,(HL)
+	MOV bh,byte ptr [bx]		; LD H,(HL)
+	MOV bl,byte ptr [bx]		; LD L,(HL)
+
+	MOV sp,word ptr NAAM + 5	; LD SP,(NAAM + 5)
+	MOV cx,word ptr NAAM + 5	; LD BC,(NAAM + 5)
+	MOV dx,word ptr NAAM + 5	; LD DE,(NAAM + 5)
+	MOV bx,word ptr NAAM + 5	; LD HL,(NAAM + 5)
+	MOV si,word ptr NAAM + 5	; LD IX,(NAAM + 5)
+	MOV di,word ptr NAAM + 5	; LD IY,(NAAM + 5)
+	MOV sp,offset  NAAM		; LD SP, NAAM
+	MOV cx,offset  NAAM + 5 	; LD BC, NAAM + 5
+	MOV dx,offset  NAAM + 5 	; LD DE, NAAM + 5
+	MOV bx,offset  NAAM + 5 	; LD HL, NAAM + 5
+	MOV si,offset  NAAM + 5 	; LD IX, NAAM + 5
+	MOV di,offset  NAAM + 5 	; LD IY, NAAM + 5
+
+	MOV sp,bx		; LD SP,HL
+	MOV sp,si		; LD SP,IX
+	MOV sp,di		; LD SP,IY
+
+	; ---- MOV I,al			; LD I,A
+	; ---- MOV R,al			; LD R,A
+	MOV al,byte ptr [si+ 10 * 2 *2 ]	; LD A,(IX+ 10 * 2 *2 )
+	MOV ch,byte ptr [di+ (10 * 2 *2 )] ; LD B,(IY+ (10 * 2 *2 ))
+	MOV cl,byte ptr [di+ (10 * 2 *2 )] ; LD C,(IY+ (10 * 2 *2 ))
+	MOV dh,byte ptr [di+ (10 * 2 *2 )] ; LD D,(IY+ (10 * 2 *2 ))
+	MOV dl,byte ptr [di+ (10 * 2 *2 )] ; LD E,(IY+ (10 * 2 *2 ))
+	MOV bh,byte ptr [di+ (10 * 2 *2 )] ; LD H,(IY+ (10 * 2 *2 ))
+	MOV bl,byte ptr [di+ (10 * 2 *2 )] ; LD L,(IY+ (10 * 2 *2 ))
+
+	MOV al,byte ptr NAAM + 100	; LD A,(NAAM + 100)
+	MOV al,CON + CON		; LD A,CON + CON
+	MOV ch,CON + CON		; LD B,CON + CON
+	MOV cl,CON + CON		; LD C,CON + CON
+	MOV dh,CON + CON		; LD D,CON + CON
+	MOV dl,CON + CON		; LD E,CON + CON
+	MOV bh,CON + CON		; LD H,CON + CON
+	MOV bl,CON + CON		; LD L,CON + CON
+
+; push/pop instructions ---------------------------------------------
+
+	lahf
+	xchg ah,al
+	PUSH ax
+	xchg ah,al 		; PUSH AF
+	PUSH cx 		; PUSH BC
+	PUSH dx 		; PUSH DE
+	PUSH bx 		; PUSH HL
+	PUSH si 		; PUSH IX
+	PUSH di 		; PUSH IY
+
+	POP di			; POP IY
+	POP si			; POP IX
+	POP bx			; POP HL
+	POP dx			; POP DE
+	POP cx			; POP BC
+	POP ax
+	xchg ah,al
+	sahf			; POP AF
+
+	XCHG dx,bx		; EX DE,HL
+	lahf
+	xchg ah,al
+	XCHG ax,word ptr [AF_]
+	xchg ah,al
+	sahf               ; EX AF,AF'
+	CALL __EXX			; EXX
+	mov bp,sp
+	XCHG [bp],bx		; EX (SP),HL
+	mov bp,sp
+	XCHG [bp],si		; EX (SP),IX
+	mov bp,sp
+	XCHG [bp],di		; EX (SP),IY
+
+	CALL __LDI			; LDI
+	CALL __LDIR			; LDIR
+	CALL __LDD			; LDD
+	CALL __LDDR			; LDDR
+	CALL __CPI			; CPI
+	CALL __CPIR			; CPIR
+	CALL __CPD			; CPD
+	CALL __CPDR			; CPDR
+
+	ADD al,al 		; ADD A,A
+	ADD al,ch 		; ADD A,B
+	ADD al,cl 		; ADD A,C
+	ADD al,dh 		; ADD A,D
+	ADD al,dl 		; ADD A,E
+	ADD al,bh 		; ADD A,H
+	ADD al,bl 		; ADD A,L
+	ADD al,CON + 55		; ADD A,CON + 55
+	ADD al,byte ptr [bx]		; ADD A,(HL)
+	ADD al,byte ptr [si + NAAM + 55]	; ADD A,(IX + NAAM + 55)
+	ADD al,byte ptr [di+ NAAM]	; ADD A,(IY+ NAAM)
+
+	ADC al,al 		; ADC A,A
+	ADC al,ch 		; ADC A,B
+	ADC al,cl 		; ADC A,C
+	ADC al,dh 		; ADC A,D
+	ADC al,dl 		; ADC A,E
+	ADC al,bh 		; ADC A,H
+	ADC al,bl 		; ADC A,L
+	ADC al,CON + 55		; ADC A,CON + 55
+	ADC al,byte ptr [bx]		; ADC A,(HL)
+	ADC al,byte ptr [si + NAAM + 55]	; ADC A,(IX + NAAM + 55)
+	ADC al,byte ptr [di+ NAAM]	; ADC A,(IY+ NAAM)
+
+	SBB al,al 		; SBC A,A
+	SBB al,ch 		; SBC A,B
+	SBB al,cl 		; SBC A,C
+	SBB al,dh 		; SBC A,D
+	SBB al,dl 		; SBC A,E
+	SBB al,bh 		; SBC A,H
+	SBB al,bl 		; SBC A,L
+	SBB al,CON + 55		; SBC A,CON + 55
+	SBB al,byte ptr [bx]		; SBC A,(HL)
+	SBB al,byte ptr [si + NAAM + 55]	; SBC A,(IX + NAAM + 55)
+	SBB al,byte ptr [di+ NAAM]	; SBC A,(IY+ NAAM)
+
+	SUB al, al			; SUB A
+	SUB al, ch			; SUB B
+	SUB al, cl			; SUB C
+	SUB al, dh			; SUB D
+	SUB al, dl			; SUB E
+	SUB al, bh			; SUB H
+	SUB al, bl			; SUB L
+	SUB al, CON + 55		; SUB CON + 55
+	SUB al, byte ptr [bx]		; SUB (HL)
+	SUB al, byte ptr [si + NAAM + 55]	; SUB (IX + NAAM + 55)
+	SUB al, byte ptr [di+ NAAM]		; SUB (IY+ NAAM)
+
+	AND al, al			; AND A
+	AND al, ch			; AND B
+	AND al, cl			; AND C
+	AND al, dh			; AND D
+	AND al, dl			; AND E
+	AND al, bh			; AND H
+	AND al, bl			; AND L
+	AND al, CON + 55		; AND CON + 55
+	AND al, byte ptr [bx]		; AND (HL)
+	AND al, byte ptr [si + NAAM + 55]	; AND (IX + NAAM + 55)
+	AND al, byte ptr [di+ NAAM]		; AND (IY+ NAAM)
+
+	OR al, al			; OR A
+	OR al, ch			; OR B
+	OR al, cl			; OR C
+	OR al, dh			; OR D
+	OR al, dl			; OR E
+	OR al, bh			; OR H
+	OR al, bl			; OR L
+	OR al, CON + 55		; OR CON + 55
+	OR al, byte ptr [bx] 	; OR (HL)
+	OR al, byte ptr [si + NAAM + 55]	; OR (IX + NAAM + 55)
+	OR al, byte ptr [di+ NAAM]		; OR (IY+ NAAM)
+
+	XOR al, al			; XOR A
+	XOR al, ch			; XOR B
+	XOR al, cl			; XOR C
+	XOR al, dh			; XOR D
+	XOR al, dl			; XOR E
+	XOR al, bh			; XOR H
+	XOR al, bl			; XOR L
+	XOR al, CON + 55		; XOR CON + 55
+	XOR al, byte ptr [bx]		; XOR (HL)
+	XOR al, byte ptr [si + NAAM + 55]	; XOR (IX + NAAM + 55)
+	XOR al, byte ptr [di+ NAAM]		; XOR (IY+ NAAM)
+
+	CMP al, al			; CP A
+	CMP al, ch			; CP B
+	CMP al, cl			; CP C
+	CMP al, dh			; CP D
+	CMP al, dl			; CP E
+	CMP al, bh			; CP H
+	CMP al, bl			; CP L
+	CMP al, CON + 55		; CP CON + 55
+	CMP al, byte ptr [bx] 	; CP (HL)
+	CMP al, byte ptr [si + NAAM + 55]	; CP (IX + NAAM + 55)
+	CMP al, byte ptr [di+ NAAM]		; CP (IY+ NAAM)
+
+	INC al			; INC A
+	INC ch			; INC B
+	INC cl			; INC C
+	INC dh			; INC D
+	INC dl			; INC E
+	INC bh			; INC H
+	INC bl			; INC L
+	INC byte ptr [bx]		; INC (HL)
+	INC byte ptr [si + NAAM + 55]	; INC (IX + NAAM + 55)
+	INC byte ptr [di+ NAAM]		; INC (IY+ NAAM)
+
+	DEC al			; DEC A
+	DEC ch			; DEC B
+	DEC cl			; DEC C
+	DEC dh			; DEC D
+	DEC dl			; DEC E
+	DEC bh			; DEC H
+	DEC bl			; DEC L
+	DEC byte ptr [bx]		; DEC (HL)
+	DEC byte ptr [si + NAAM + 55]	; DEC (IX + NAAM + 55)
+	DEC byte ptr [di+ NAAM]		; DEC (IY+ NAAM)
+
+	; ---- DAA or DAS			; DAA
+	NOT al			; CPL
+	NEG al			; NEG
+	CMC			; CCF
+	STC			; SCF
+	NOP			; NOP
+	HLT			; HALT
+	CLI			; DI
+	STI			; EI
+
+	; ---- IM 0			; IM 0
+	; ---- IM 1			; IM 1
+	; ---- IM 2			; IM 2
+
+	ADD bx,cx		; ADD HL,BC
+	ADD bx,dx		; ADD HL,DE
+	ADD bx,bx		; ADD HL,HL
+	ADD bx,sp		; ADD HL,SP
+
+	ADC bx,cx		; ADC HL,BC
+	ADC bx,dx		; ADC HL,DE
+	ADC bx,bx		; ADC HL,HL
+	ADC bx,sp		; ADC HL,SP
+
+	SBB bx,cx		; SBC HL,BC
+	SBB bx,dx		; SBC HL,DE
+	SBB bx,bx		; SBC HL,HL
+	SBB bx,sp		; SBC HL,SP
+
+	ADD si,cx		; ADD IX,BC
+	ADD si,dx		; ADD IX,DE
+	ADD si,si		; ADD IX,IX
+	ADD si,sp		; ADD IX,SP
+
+	ADD di,cx		; ADD IY,BC
+	ADD di,dx		; ADD IY,DE
+	ADD di,di		; ADD IY,IY
+	ADD di,sp		; ADD IY,SP
+
+	INC cx			; INC BC
+	INC dx			; INC DE
+	INC bx			; INC HL
+	INC sp			; INC SP
+	INC si			; INC IX
+	INC di			; INC IY
+
+	DEC cx			; DEC BC
+	DEC dx			; DEC DE
+	DEC bx			; DEC HL
+	DEC sp			; DEC SP
+	DEC si			; DEC IX
+	DEC di			; DEC IY
+
+	ROL al,1			; RLCA
+	RCL al,1			; RLA
+	ROR al,1			; RRCA
+	RCR al,1			; RRA
+	; ---- RLD			; RLD
+	; ---- RRD			; RRD
+
+	ROL al,1			; RLC A
+	ROL ch,1			; RLC B
+	ROL cl,1			; RLC C
+	ROL dh,1			; RLC D
+	ROL dl,1			; RLC E
+	ROL bh,1			; RLC H
+	ROL bl,1			; RLC L
+	ROL byte ptr [bx],1		; RLC (HL)
+	ROL byte ptr [si + NAAM + 5],1	; RLC (IX + NAAM + 5)
+	ROL byte ptr [di + NAAM + 5],1	; RLC (IY + NAAM + 5)
+
+	RCL al,1			; RL A
+	RCL ch,1			; RL B
+	RCL cl,1			; RL C
+	RCL dh,1			; RL D
+	RCL dl,1			; RL E
+	RCL bh,1			; RL H
+	RCL bl,1			; RL L
+	RCL byte ptr [bx],1 		; RL (HL)
+	RCL byte ptr [si + NAAM + 5],1	; RL (IX + NAAM + 5)
+	RCL byte ptr [di + NAAM + 5],1	; RL (IY + NAAM + 5)
+
+	ROR al,1			; RRC A
+	ROR ch,1			; RRC B
+	ROR cl,1			; RRC C
+	ROR dh,1			; RRC D
+	ROR dl,1			; RRC E
+	ROR bh,1			; RRC H
+	ROR bl,1			; RRC L
+	ROR byte ptr [bx],1		; RRC (HL)
+	ROR byte ptr [si + NAAM + 5],1	; RRC (IX + NAAM + 5)
+	ROR byte ptr [di + NAAM + 5],1	; RRC (IY + NAAM + 5)
+
+	RCR al,1			; RR A
+	RCR ch,1			; RR B
+	RCR cl,1			; RR C
+	RCR dh,1			; RR D
+	RCR dl,1			; RR E
+	RCR bh,1			; RR H
+	RCR bl,1			; RR L
+	RCR byte ptr [bx],1 		; RR (HL)
+	RCR byte ptr [si + NAAM + 5],1	; RR (IX + NAAM + 5)
+	RCR byte ptr [di + NAAM + 5],1	; RR (IY + NAAM + 5)
+
+	SAL al,1			; SLA A
+	SAL ch,1			; SLA B
+	SAL cl,1			; SLA C
+	SAL dh,1			; SLA D
+	SAL dl,1			; SLA E
+	SAL bh,1			; SLA H
+	SAL bl,1			; SLA L
+	SAL byte ptr [bx],1		; SLA (HL)
+	SAL byte ptr [si + NAAM + 5],1	; SLA (IX + NAAM + 5)
+	SAL byte ptr [di + NAAM + 5],1	; SLA (IY + NAAM + 5)
+
+	SAR al,1			; SRA A
+	SAR ch,1			; SRA B
+	SAR cl,1			; SRA C
+	SAR dh,1			; SRA D
+	SAR dl,1			; SRA E
+	SAR bh,1			; SRA H
+	SAR bl,1			; SRA L
+	SAR byte ptr [bx],1		; SRA (HL)
+	SAR byte ptr [si + NAAM + 5],1	; SRA (IX + NAAM + 5)
+	SAR byte ptr [di + NAAM + 5],1	; SRA (IY + NAAM + 5)
+
+	SHR al,1			; SRL A
+	SHR ch,1			; SRL B
+	SHR cl,1			; SRL C
+	SHR dh,1			; SRL D
+	SHR dl,1			; SRL E
+	SHR bh,1			; SRL H
+	SHR bl,1			; SRL L
+	SHR byte ptr [bx],1		; SRL (HL)
+	SHR byte ptr [si + NAAM + 5],1	; SRL (IX + NAAM + 5)
+	SHR byte ptr [di + NAAM + 5],1	; SRL (IY + NAAM + 5)
+
+	TEST al,1 		; BIT 0,A
+	TEST ch,1 		; BIT 0,B
+	TEST cl,1 		; BIT 0,C
+	TEST dh,1 		; BIT 0,D
+	TEST dl,1 		; BIT 0,E
+	TEST bh,1 		; BIT 0,H
+	TEST bl,1 		; BIT 0,L
+	TEST byte ptr [bx],1		; BIT 0,(HL)
+	TEST byte ptr [si + NAAM + 5],1	; BIT 0,(IX + NAAM + 5)
+	TEST byte ptr [di + NAAM + 5],1	; BIT 0,(IY + NAAM + 5)
+
+	TEST al,2 		; BIT 1,A
+	TEST ch,2 		; BIT 1,B
+	TEST cl,2 		; BIT 1,C
+	TEST dh,2 		; BIT 1,D
+	TEST dl,2 		; BIT 1,E
+	TEST bh,2 		; BIT 1,H
+	TEST bl,2 		; BIT 1,L
+	TEST byte ptr [bx],2		; BIT 1,(HL)
+	TEST byte ptr [si + NAAM + 5],2	; BIT 1,(IX + NAAM + 5)
+	TEST byte ptr [di + NAAM + 5],2	; BIT 1,(IY + NAAM + 5)
+
+	TEST al,4 		; BIT 2,A
+	TEST ch,4 		; BIT 2,B
+	TEST cl,4 		; BIT 2,C
+	TEST dh,4 		; BIT 2,D
+	TEST dl,4 		; BIT 2,E
+	TEST bh,4 		; BIT 2,H
+	TEST bl,4 		; BIT 2,L
+	TEST byte ptr [bx],4		; BIT 2,(HL)
+	TEST byte ptr [si + NAAM + 5],4	; BIT 2,(IX + NAAM + 5)
+	TEST byte ptr [di + NAAM + 5],4	; BIT 2,(IY + NAAM + 5)
+
+	TEST al,128 		; BIT 7,A
+	TEST ch,128 		; BIT 7,B
+	TEST cl,128 		; BIT 7,C
+	TEST dh,128 		; BIT 7,D
+	TEST dl,128 		; BIT 7,E
+	TEST bh,128 		; BIT 7,H
+	TEST bl,128 		; BIT 7,L
+	TEST byte ptr [bx],128		; BIT 7,(HL)
+	TEST byte ptr [si + NAAM + 5],128	; BIT 7,(IX + NAAM + 5)
+	TEST byte ptr [di + NAAM + 5],128	; BIT 7,(IY + NAAM + 5)
+
+	pushf
+	OR al,1
+	popf 		; SET 0,A
+	pushf
+	OR ch,1
+	popf 		; SET 0,B
+	pushf
+	OR cl,1
+	popf 		; SET 0,C
+	pushf
+	OR dh,1
+	popf 		; SET 0,D
+	pushf
+	OR dl,1
+	popf 		; SET 0,E
+	pushf
+	OR bh,1
+	popf 		; SET 0,H
+	pushf
+	OR bl,1
+	popf 		; SET 0,L
+	pushf
+	OR byte ptr [bx],1
+	popf		; SET 0,(HL)
+	pushf
+	OR byte ptr [si + NAAM + 5],1
+	popf	; SET 0,(IX + NAAM + 5)
+	pushf
+	OR byte ptr [di + NAAM + 5],1
+	popf	; SET 0,(IY + NAAM + 5)
+
+	pushf
+	OR al,2
+	popf 		; SET 1,A
+	pushf
+	OR ch,2
+	popf 		; SET 1,B
+	pushf
+	OR cl,2
+	popf 		; SET 1,C
+	pushf
+	OR dh,2
+	popf 		; SET 1,D
+	pushf
+	OR dl,2
+	popf 		; SET 1,E
+	pushf
+	OR bh,2
+	popf 		; SET 1,H
+	pushf
+	OR bl,2
+	popf 		; SET 1,L
+	pushf
+	OR byte ptr [bx],2
+	popf		; SET 1,(HL)
+	pushf
+	OR byte ptr [si + NAAM + 5],2
+	popf	; SET 1,(IX + NAAM + 5)
+	pushf
+	OR byte ptr [di + NAAM + 5],2
+	popf	; SET 1,(IY + NAAM + 5)
+
+	pushf
+	OR al,4
+	popf 		; SET 2,A
+	pushf
+	OR ch,4
+	popf 		; SET 2,B
+	pushf
+	OR cl,4
+	popf 		; SET 2,C
+	pushf
+	OR dh,4
+	popf 		; SET 2,D
+	pushf
+	OR dl,4
+	popf 		; SET 2,E
+	pushf
+	OR bh,4
+	popf 		; SET 2,H
+	pushf
+	OR bl,4
+	popf 		; SET 2,L
+	pushf
+	OR byte ptr [bx],4
+	popf		; SET 2,(HL)
+	pushf
+	OR byte ptr [si + NAAM + 5],4
+	popf	; SET 2,(IX + NAAM + 5)
+	pushf
+	OR byte ptr [di + NAAM + 5],4
+	popf	; SET 2,(IY + NAAM + 5)
+
+	pushf
+	OR al,128
+	popf 		; SET 7,A
+	pushf
+	OR ch,128
+	popf 		; SET 7,B
+	pushf
+	OR cl,128
+	popf 		; SET 7,C
+	pushf
+	OR dh,128
+	popf 		; SET 7,D
+	pushf
+	OR dl,128
+	popf 		; SET 7,E
+	pushf
+	OR bh,128
+	popf 		; SET 7,H
+	pushf
+	OR bl,128
+	popf 		; SET 7,L
+	pushf
+	OR byte ptr [bx],128
+	popf		; SET 7,(HL)
+	pushf
+	OR byte ptr [si + NAAM + 5],128
+	popf	; SET 7,(IX + NAAM + 5)
+	pushf
+	OR byte ptr [di + NAAM + 5],128
+	popf	; SET 7,(IY + NAAM + 5)
+
+	pushf
+	AND al,11111110b
+	popf 		; RES 0,A
+	pushf
+	AND ch,11111110b
+	popf 		; RES 0,B
+	pushf
+	AND cl,11111110b
+	popf 		; RES 0,C
+	pushf
+	AND dh,11111110b
+	popf 		; RES 0,D
+	pushf
+	AND dl,11111110b
+	popf 		; RES 0,E
+	pushf
+	AND bh,11111110b
+	popf 		; RES 0,H
+	pushf
+	AND bl,11111110b
+	popf 		; RES 0,L
+	pushf
+	AND byte ptr [bx],11111110b
+	popf		; RES 0,(HL)
+	pushf
+	AND byte ptr [si + NAAM + 5],11111110b
+	popf	; RES 0,(IX + NAAM + 5)
+	pushf
+	AND byte ptr [di + NAAM + 5],11111110b
+	popf	; RES 0,(IY + NAAM + 5)
+
+	pushf
+	AND al,11111101b
+	popf 		; RES 1,A
+	pushf
+	AND ch,11111101b
+	popf 		; RES 1,B
+	pushf
+	AND cl,11111101b
+	popf 		; RES 1,C
+	pushf
+	AND dh,11111101b
+	popf 		; RES 1,D
+	pushf
+	AND dl,11111101b
+	popf 		; RES 1,E
+	pushf
+	AND bh,11111101b
+	popf 		; RES 1,H
+	pushf
+	AND bl,11111101b
+	popf 		; RES 1,L
+	pushf
+	AND byte ptr [bx],11111101b
+	popf		; RES 1,(HL)
+	pushf
+	AND byte ptr [si + NAAM + 5],11111101b
+	popf	; RES 1,(IX + NAAM + 5)
+	pushf
+	AND byte ptr [di + NAAM + 5],11111101b
+	popf	; RES 1,(IY + NAAM + 5)
+
+	pushf
+	AND al,11111011b
+	popf 		; RES 2,A
+	pushf
+	AND ch,11111011b
+	popf 		; RES 2,B
+	pushf
+	AND cl,11111011b
+	popf 		; RES 2,C
+	pushf
+	AND dh,11111011b
+	popf 		; RES 2,D
+	pushf
+	AND dl,11111011b
+	popf 		; RES 2,E
+	pushf
+	AND bh,11111011b
+	popf 		; RES 2,H
+	pushf
+	AND bl,11111011b
+	popf 		; RES 2,L
+	pushf
+	AND byte ptr [bx],11111011b
+	popf		; RES 2,(HL)
+	pushf
+	AND byte ptr [si + NAAM + 5],11111011b
+	popf	; RES 2,(IX + NAAM + 5)
+	pushf
+	AND byte ptr [di + NAAM + 5],11111011b
+	popf	; RES 2,(IY + NAAM + 5)
+
+	pushf
+	AND al,01111111b
+	popf 		; RES 7,A
+	pushf
+	AND ch,01111111b
+	popf 		; RES 7,B
+	pushf
+	AND cl,01111111b
+	popf 		; RES 7,C
+	pushf
+	AND dh,01111111b
+	popf 		; RES 7,D
+	pushf
+	AND dl,01111111b
+	popf 		; RES 7,E
+	pushf
+	AND bh,01111111b
+	popf 		; RES 7,H
+	pushf
+	AND bl,01111111b
+	popf 		; RES 7,L
+	pushf
+	AND byte ptr [bx],01111111b
+	popf		; RES 7,(HL)
+	pushf
+	AND byte ptr [si + NAAM + 5],01111111b
+	popf	; RES 7,(IX + NAAM + 5)
+	pushf
+	AND byte ptr [di + NAAM + 5],01111111b
+	popf	; RES 7,(IY + NAAM + 5)
+
+
+	DEC ch
+	JNZ near ptr NAAM + 5		; DJNZ NAAM + 5
+	JMP bx 		; JP (HL)
+	JMP si 		; JP (IX)
+	JMP di 		; JP (IY)
+
+	JMP near ptr  NAAM + 5		; JP NAAM + 5
+	JMP near ptr  5 + NAAM		; JP 5 + NAAM
+
+	JNZ near ptr  NAAM + 5 	; JP NZ, NAAM + 5
+	JZ near ptr   NAAM + 5 	; JP Z,  NAAM + 5
+	JNC near ptr  NAAM + 5 	; JP NC, NAAM + 5
+	JC near ptr   NAAM + 5 	; JP C,  NAAM + 5; ---- J PO NAAM + 5 	; JP PO, NAAM + 5
+	; ---- J PE NAAM + 5 	; JP PE, NAAM + 5
+	JNS near ptr   NAAM + 5 	; JP P,  NAAM + 5
+	JS near ptr   NAAM + 5 	; JP M,  NAAM + 5
+
+	JMP near ptr  NAAM + 5		; JR NAAM + 5
+	JMP near ptr  5 + NAAM		; JR 5 + NAAM
+	JNZ near ptr  NAAM + 5 	; JR NZ, NAAM + 5
+	JZ near ptr   NAAM + 5 	; JR Z,  NAAM + 5
+	JNC near ptr  NAAM + 5 	; JR NC, NAAM + 5
+	JC near ptr   NAAM + 5 	; JR C,  NAAM + 5
+
+	CALL near ptr NAAM + 5		; CALL NAAM + 5
+	CALLNZ NAAM + 5	; CALL NZ,NAAM + 5
+	CALLZ NAAM + 5 	; CALL Z,NAAM + 5
+	CALLNC NAAM + 5	; CALL NC,NAAM + 5
+	CALLC NAAM + 5 	; CALL C,NAAM + 5
+	CALLPO NAAM + 5	; CALL PO,NAAM + 5
+	CALLPE NAAM + 5	; CALL PE,NAAM + 5
+	CALLP NAAM + 5 	; CALL P,NAAM + 5
+	CALLM NAAM + 5 	; CALL M,NAAM + 5
+
+	RET			; RET
+	RETNZ 			; RET NZ
+	RETZ 			; RET Z
+	RETNC 			; RET NC
+	RETC 			; RET C
+	RETPO 			; RET PO
+	RETPE 			; RET PE
+	RETP 			; RET P
+	RETM 			; RET M
+
+
+	; ---- RETI			; RETI
+	; ---- RETN			; RETN
+
+;	END
+
+	; ---- IN0dbh, al,(NAAM + 5 	; IN A,(NAAM + 5)
+	; ---- IN F,(cl)		; IN F,(C)
+	; ---- IN al,(cl)		; IN A,(C)
+	; ---- IN ch,(cl)		; IN B,(C)
+	; ---- IN cl,(cl)		; IN C,(C)
+	; ---- IN dh,(cl)		; IN D,(C)
+	; ---- IN dl,(cl)		; IN E,(C)
+	; ---- IN bh,(cl)		; IN H,(C)
+	; ---- IN bl,(cl)		; IN L,(C)
+
+	; ---- OUT0d3h, (NAAM * NAAM ),al	; OUT (NAAM * NAAM ),A
+	; ---- OUT (),al		; OUT (C),A
+	; ---- OUT (),ch		; OUT (C),B
+	; ---- OUT (),cl		; OUT (C),C
+	; ---- OUT (),dh		; OUT (C),D
+	; ---- OUT (),dl		; OUT (C),E
+	; ---- OUT (),bh		; OUT (C),H
+	; ---- OUT (),bl		; OUT (C),L
+
+	INI			; INI
+	INIR			; INIR
+	IND			; IND
+	INDR			; INDR
+	OUTI			; OUTI
+	OTIR			; OTIR
+	OUTD			; OUTD
+	OTDR			; OTDR
+
+	JMP bx

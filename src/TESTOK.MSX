@@ -1,0 +1,875 @@
+;!	pushf
+	DB 02h
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+;asdfja;sdfj;lqgj;lqj ;qlkwefj;kljsvbiopqv;jklrjqiog
+NEEDEDMEMMANVERSION EQU 0204h
+
+	OFF_HL	NAAM+5 NAAM*5
+
+	GLOBAL NAAM
+
+	 PUBLIC NAAM
+
+	 EXTRN NAAM,NAAM1,NAAMS2
+
+IFNDEF	NAAM
+
+;DB 'Frits Hilderink',$,NAAM , NAAM , $100, NAAM * NAAM
+
+; Dit is een tekstje
+; Dit is een tekstje
+; Dit is een tekstje
+; Dit is een tekstje
+; Dit is een tekstje
+; Dit is een tekstje
+
+; store instructions ------------------------------------------------
+
+
+	.Z80
+	DB 01h
+	DW -1024
+	ASEG
+	ORG NAAM*NAAM
+;NAM EQU $ - 100 * 100
+;NAAM :
+
+	INCLUDE HAA.HASDF.ASD1324
+	DB 'NAAM'
+	DB NAAM
+	IFDEF FRITS
+	ENDIF
+	ELSE
+
+	;!	jmp word ptr L0213
+
+	db 15 dup (0)
+	DC 'NAAM'
+
+AF_:	DW 0
+NAAM:	DW 0
+CON	EQU 0
+
+__EXX:	DB 0c9h
+
+__LDIR: DB 0c9h
+__LDI:	DB 0c9h
+__LDDR: DB 0c9h
+__LDD:	DB 0c9h
+__CPIR: DB 0c9h
+__CPI:	DB 0c9h
+__CPDR: DB 0c9h
+__CPD:	DB 0c9h
+	DB 02h		; LD (BC),A
+	DB 12h		; LD (DE),A
+
+	DB 77h		; LD (HL),A
+	DB 70h		; LD (HL),B
+	DB 71h		; LD (HL),C
+	DB 72h		; LD (HL),D
+	DB 73h		; LD (HL),E
+	DB 74h		; LD (HL),H
+	DB 75h		; LD (HL),L
+	DB 36h,50 *2		; LD (HL),50 *2
+
+L01E8:	DW 73edh,NAAM + 5	; LD (NAAM + 5 ), SP
+	DW 43edh,NAAM + 5	; LD (NAAM + 5 ), BC
+	DW 53edh,NAAM + 5	; LD (NAAM + 5 ), DE
+	DB 22h
+	DW NAAM + 5	; LD (NAAM + 5 ), HL
+	DW 22ddh,NAAM + 5	; LD (NAAM + 5 ), IX
+	DW 22fdh,NAAM + 5	; LD (NAAM + 5 ), IY
+
+	DB 32h
+	DW NAAM + 5000	; LD (NAAM + 5000) ,A
+	DB 0ddh,36h, + NAAM+5,5 * 6	; LD (IX + NAAM+5),5 * 6
+	DB 0fdh,77h, + NAAM + 1 ; LD ( IY + NAAM + 1 ), A
+	DB 0fdh,70h, + NAAM + 1 ; LD ( IY + NAAM + 1 ), B
+	DB 0fdh,71h, + NAAM + 1 ; LD ( IY + NAAM + 1 ), C
+	DB 0fdh,72h, + NAAM + 1 ; LD ( IY + NAAM + 1 ), D
+	DB 0fdh,73h, + NAAM + 1 ; LD ( IY + NAAM + 1 ), E
+	DB 0fdh,74h, + NAAM + 1 ; LD ( IY + NAAM + 1 ), H
+	DB 0fdh,75h, + NAAM + 1 ; LD ( IY + NAAM + 1 ), L
+	DB 0ddh,77h, + NAAM + 2  ; LD (IX + NAAM + 2 ) , A
+
+; load instructions -------------------------------------------------
+
+	DB 7fh			; LD A,A
+	DB 78h			; LD A,B
+	DB 79h			; LD A,C
+	DB 7ah			; LD A,D
+	DB 7bh			; LD A,E
+	DB 7ch			; LD A,H
+	DB 7dh			; LD A,L
+
+	DB 7dh			; LD A,L
+	DB 44h			; LD B,H
+	DB 4bh			; LD C,E
+	DB 52h			; LD D,D
+	DB 59h			; LD E,C
+	DB 60h			; LD H,B
+	DB 6fh			; LD L,A
+
+	DB 0edh,57h			; LD A,I
+	DB 0edh,5fh			; LD A,R
+	DB 0ah		; LD A,(BC)
+	DB 1ah		; LD A,(DE)
+
+	DB 7eh		; LD A,(HL)
+	DB 46h		; LD B,(HL)
+	DB 4eh		; LD C,(HL)
+	DB 56h		; LD D,(HL)
+	DB 5eh		; LD E,(HL)
+	DB 66h		; LD H,(HL)
+	DB 6eh		; LD L,(HL)
+
+	DB 0edh,7bh
+	DW NAAM + 5	; LD SP,(NAAM + 5)
+	DB 0edh,4bh
+	DW NAAM + 5	; LD BC,(NAAM + 5)
+	DB 0edh,5bh
+	DW NAAM + 5	; LD DE,(NAAM + 5)
+	DB 02ah
+	DW NAAM + 5	; LD HL,(NAAM + 5)
+	DB 0ddh,02ah
+	DW NAAM + 5	; LD IX,(NAAM + 5)
+	DB 0fdh,02ah
+	DW NAAM + 5	; LD IY,(NAAM + 5)
+	DB 31h
+	DW  NAAM		; LD SP, NAAM
+	DB 01h
+	DW  NAAM + 5 	; LD BC, NAAM + 5
+	DB 11h
+	DW  NAAM + 5 	; LD DE, NAAM + 5
+	DB 21h
+	DW  NAAM + 5 	; LD HL, NAAM + 5
+	DB 0ddh,21h
+	DW  NAAM + 5 	; LD IX, NAAM + 5
+	DB 0fdh,21h
+	DW  NAAM + 5 	; LD IY, NAAM + 5
+
+	DB 0f9h		; LD SP,HL
+	DB 0ddh,0f9h		; LD SP,IX
+	DB 0fdh,0f9h		; LD SP,IY
+
+	DB 0edh,47h			; LD I,A
+	DB 0edh,4fh			; LD R,A
+	DB 0ddh,7eh,+ 10 * 2 *2	; LD A,(IX+ 10 * 2 *2 )
+	DB 0fdh,46h,+ (10 * 2 *2 ) ; LD B,(IY+ (10 * 2 *2 ))
+	DB 0fdh,4eh,+ (10 * 2 *2 ) ; LD C,(IY+ (10 * 2 *2 ))
+	DB 0fdh,56h,+ (10 * 2 *2 ) ; LD D,(IY+ (10 * 2 *2 ))
+	DB 0fdh,5eh,+ (10 * 2 *2 ) ; LD E,(IY+ (10 * 2 *2 ))
+	DB 0fdh,66h,+ (10 * 2 *2 ) ; LD H,(IY+ (10 * 2 *2 ))
+	DB 0fdh,6eh,+ (10 * 2 *2 ) ; LD L,(IY+ (10 * 2 *2 ))
+
+	DB 3ah
+	DW NAAM + 100	; LD A,(NAAM + 100)
+	DB 3eh,CON + CON		; LD A,CON + CON
+	DB 06h,CON + CON		; LD B,CON + CON
+	DB 0eh,CON + CON		; LD C,CON + CON
+	DB 16h,CON + CON		; LD D,CON + CON
+	DB 1eh,CON + CON		; LD E,CON + CON
+	DB 26h,CON + CON		; LD H,CON + CON
+	DB 2eh,CON + CON		; LD L,CON + CON
+
+; push/pop instructions ---------------------------------------------
+
+	DB 0f5h 		; PUSH AF
+	DB 0c5h 		; PUSH BC
+	DB 0d5h 		; PUSH DE
+	DB 0e5h 		; PUSH HL
+	DB 0ddh,0e5h 		; PUSH IX
+	DB 0fdh,0e5h 		; PUSH IY
+
+	DB 0fdh,0e1h			; POP IY
+	DB 0ddh,0e1h			; POP IX
+	DB 0e1h			; POP HL
+	DB 0d1h			; POP DE
+	DB 0c1h			; POP BC
+	DB 0f1h			; POP AF
+
+	DB 0ebh		; EX DE,HL
+	DB 08h               ; EX AF,AF'
+	DB 0d9h			; EXX
+	DB 0e3h		; EX (SP),HL
+	DB 0ddh,0e3h		; EX (SP),IX
+	DB 0fdh,0e3h		; EX (SP),IY
+
+	DB 0edh,0a0h			; LDI
+	DB 0edh,0b0h			; LDIR
+	DB 0edh,0a8h			; LDD
+	DB 0edh,0b8h			; LDDR
+	DB 0edh,0a1h			; CPI
+	DB 0edh,0b1h			; CPIR
+	DB 0edh,0a9h			; CPD
+	DB 0edh,0b9h			; CPDR
+
+	DB 087h 		; ADD A,A
+	DB 080h 		; ADD A,B
+	DB 081h 		; ADD A,C
+	DB 082h 		; ADD A,D
+	DB 083h 		; ADD A,E
+	DB 084h 		; ADD A,H
+	DB 085h 		; ADD A,L
+	DB 0c6h,CON + 55		; ADD A,CON + 55
+	DB 086h		; ADD A,(HL)
+	DB 0ddh,086h, + NAAM + 55	; ADD A,(IX + NAAM + 55)
+	DB 0fdh,086h,+ NAAM	; ADD A,(IY+ NAAM)
+
+	DB 08fh 		; ADC A,A
+	DB 088h 		; ADC A,B
+	DB 089h 		; ADC A,C
+	DB 08ah 		; ADC A,D
+	DB 08bh 		; ADC A,E
+	DB 08ch 		; ADC A,H
+	DB 08dh 		; ADC A,L
+	DB 0ceh,CON + 55		; ADC A,CON + 55
+	DB 08eh		; ADC A,(HL)
+	DB 0ddh,08eh, + NAAM + 55	; ADC A,(IX + NAAM + 55)
+	DB 0fdh,08eh,+ NAAM	; ADC A,(IY+ NAAM)
+
+	DB 09fh 		; SBC A,A
+	DB 098h 		; SBC A,B
+	DB 099h 		; SBC A,C
+	DB 09ah 		; SBC A,D
+	DB 09bh 		; SBC A,E
+	DB 09ch 		; SBC A,H
+	DB 09dh 		; SBC A,L
+	DB 0deh,CON + 55		; SBC A,CON + 55
+	DB 09eh		; SBC A,(HL)
+	DB 0ddh,09eh, + NAAM + 55	; SBC A,(IX + NAAM + 55)
+	DB 0fdh,09eh,+ NAAM	; SBC A,(IY+ NAAM)
+
+	DB 097h			; SUB A
+	DB 090h			; SUB B
+	DB 091h			; SUB C
+	DB 092h			; SUB D
+	DB 093h			; SUB E
+	DB 094h			; SUB H
+	DB 095h			; SUB L
+	DB 0d6h, CON + 55		; SUB CON + 55
+	DB 096h		; SUB (HL)
+	DB 0ddh,096h, + NAAM + 55	; SUB (IX + NAAM + 55)
+	DB 0fdh,096h,+ NAAM		; SUB (IY+ NAAM)
+
+	DB 0a7h			; AND A
+	DB 0a0h			; AND B
+	DB 0a1h			; AND C
+	DB 0a2h			; AND D
+	DB 0a3h			; AND E
+	DB 0a4h			; AND H
+	DB 0a5h			; AND L
+	DB 0e6h, CON + 55		; AND CON + 55
+	DB 0a6h		; AND (HL)
+	DB 0ddh,0a6h, + NAAM + 55	; AND (IX + NAAM + 55)
+	DB 0fdh,0a6h,+ NAAM		; AND (IY+ NAAM)
+
+	DB 0b7h			; OR A
+	DB 0b0h			; OR B
+	DB 0b1h			; OR C
+	DB 0b2h			; OR D
+	DB 0b3h			; OR E
+	DB 0b4h			; OR H
+	DB 0b5h			; OR L
+	DB 0f6h, CON + 55		; OR CON + 55
+	DB 0b6h 	; OR (HL)
+	DB 0ddh,0b6h, + NAAM + 55	; OR (IX + NAAM + 55)
+	DB 0fdh,0b6h,+ NAAM		; OR (IY+ NAAM)
+
+	DB 0afh			; XOR A
+	DB 0a8h			; XOR B
+	DB 0a9h			; XOR C
+	DB 0aah			; XOR D
+	DB 0abh			; XOR E
+	DB 0ach			; XOR H
+	DB 0adh			; XOR L
+	DB 0eeh, CON + 55		; XOR CON + 55
+	DB 0aeh		; XOR (HL)
+	DB 0ddh,0aeh, + NAAM + 55	; XOR (IX + NAAM + 55)
+	DB 0fdh,0aeh,+ NAAM		; XOR (IY+ NAAM)
+
+	DB 0bfh			; CP A
+	DB 0b8h			; CP B
+	DB 0b9h			; CP C
+	DB 0bah			; CP D
+	DB 0bbh			; CP E
+	DB 0bch			; CP H
+	DB 0bdh			; CP L
+	DB 0feh, CON + 55		; CP CON + 55
+	DB 0beh 	; CP (HL)
+	DB 0ddh,0beh, + NAAM + 55	; CP (IX + NAAM + 55)
+	DB 0fdh,0beh,+ NAAM		; CP (IY+ NAAM)
+
+	DB 3ch			; INC A
+	DB 04h			; INC B
+	DB 0ch			; INC C
+	DB 14h			; INC D
+	DB 1ch			; INC E
+	DB 24h			; INC H
+	DB 2ch			; INC L
+	DB 034h		; INC (HL)
+	DB 0ddh,034h, + NAAM + 55	; INC (IX + NAAM + 55)
+	DB 0fdh,034h,+ NAAM		; INC (IY+ NAAM)
+
+	DB 3dh			; DEC A
+	DB 05h			; DEC B
+	DB 0dh			; DEC C
+	DB 15h			; DEC D
+	DB 1dh			; DEC E
+	DB 25h			; DEC H
+	DB 2dh			; DEC L
+	DB 035h		; DEC (HL)
+	DB 0ddh,035h, + NAAM + 55	; DEC (IX + NAAM + 55)
+	DB 0fdh,035h,+ NAAM		; DEC (IY+ NAAM)
+
+	DB 27h			; DAA
+	DB 2fh			; CPL
+	DB 0edh,44h			; NEG
+	DB 3fh			; CCF
+	DB 37h			; SCF
+	DB 00h			; NOP
+	DB 76h			; HALT
+	DB 0f3h			; DI
+	DB 0fbh			; EI
+
+	DB 0edh,46h			; IM 0
+	DB 0edh,56h			; IM 1
+	DB 0edh,5eh			; IM 2
+
+	DB 09h		; ADD HL,BC
+	DB 019h		; ADD HL,DE
+	DB 029h		; ADD HL,HL
+	DB 039h		; ADD HL,SP
+
+	DB 0EDH,04ah		; ADC HL,BC
+	DB 0EDH,05ah		; ADC HL,DE
+	DB 0EDH,06ah		; ADC HL,HL
+	DB 0EDH,07ah		; ADC HL,SP
+
+	DB 0EDH,042h		; SBC HL,BC
+	DB 0EDH,052h		; SBC HL,DE
+	DB 0EDH,062h		; SBC HL,HL
+	DB 0EDH,072h		; SBC HL,SP
+
+	DB 0ddh,09h		; ADD IX,BC
+	DB 0ddh,019h		; ADD IX,DE
+	DB 0ddh,029h		; ADD IX,IX
+	DB 0ddh,039h		; ADD IX,SP
+
+	DB 0fdh,09h		; ADD IY,BC
+	DB 0fdh,019h		; ADD IY,DE
+	DB 0fdh,029h		; ADD IY,IY
+	DB 0fdh,039h		; ADD IY,SP
+
+	DB 03h			; INC BC
+	DB 13h			; INC DE
+	DB 23h			; INC HL
+	DB 33h			; INC SP
+	DB 0ddh,23h			; INC IX
+	DB 0fdh,23h			; INC IY
+
+	DB 0bh			; DEC BC
+	DB 1bh			; DEC DE
+	DB 2bh			; DEC HL
+	DB 3bh			; DEC SP
+	DB 0ddh,2bh			; DEC IX
+	DB 0fdh,2bh			; DEC IY
+
+	DB 07h			; RLCA
+	DB 17h			; RLA
+	DB 0fh			; RRCA
+	DB 1fh			; RRA
+	DB 0edh,6fh			; RLD
+	DB 0edh,67h			; RRD
+
+	DB 0cbh,07h			; RLC A
+	DB 0cbh,00h			; RLC B
+	DB 0cbh,01h			; RLC C
+	DB 0cbh,02h			; RLC D
+	DB 0cbh,03h			; RLC E
+	DB 0cbh,04h			; RLC H
+	DB 0cbh,05h			; RLC L
+	DB 0cbh,06h		; RLC (HL)
+	DB 0ddh,0cbh, + NAAM + 5,06h	; RLC (IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,06h	; RLC (IY + NAAM + 5)
+
+	DB 0cbh,17h			; RL A
+	DB 0cbh,10h			; RL B
+	DB 0cbh,11h			; RL C
+	DB 0cbh,12h			; RL D
+	DB 0cbh,13h			; RL E
+	DB 0cbh,14h			; RL H
+	DB 0cbh,15h			; RL L
+	DB 0cbh,16h 		; RL (HL)
+	DB 0ddh,0cbh, + NAAM + 5,16h	; RL (IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,16h	; RL (IY + NAAM + 5)
+
+	DB 0cbh,0fh			; RRC A
+	DB 0cbh,08h			; RRC B
+	DB 0cbh,09h			; RRC C
+	DB 0cbh,0ah			; RRC D
+	DB 0cbh,0bh			; RRC E
+	DB 0cbh,0ch			; RRC H
+	DB 0cbh,0dh			; RRC L
+	DB 0cbh,0eh		; RRC (HL)
+	DB 0ddh,0cbh, + NAAM + 5,0eh	; RRC (IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,0eh	; RRC (IY + NAAM + 5)
+
+	DB 0cbh,1fh			; RR A
+	DB 0cbh,18h			; RR B
+	DB 0cbh,19h			; RR C
+	DB 0cbh,1ah			; RR D
+	DB 0cbh,1bh			; RR E
+	DB 0cbh,1ch			; RR H
+	DB 0cbh,1dh			; RR L
+	DB 0cbh,1eh 		; RR (HL)
+	DB 0ddh,0cbh, + NAAM + 5,1eh	; RR (IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,1eh	; RR (IY + NAAM + 5)
+
+	DB 0cbh,27h			; SLA A
+	DB 0cbh,20h			; SLA B
+	DB 0cbh,21h			; SLA C
+	DB 0cbh,22h			; SLA D
+	DB 0cbh,23h			; SLA E
+	DB 0cbh,24h			; SLA H
+	DB 0cbh,25h			; SLA L
+	DB 0cbh,26h		; SLA (HL)
+	DB 0ddh,0cbh, + NAAM + 5,26h	; SLA (IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,26h	; SLA (IY + NAAM + 5)
+
+	DB 0cbh,2fh			; SRA A
+	DB 0cbh,28h			; SRA B
+	DB 0cbh,29h			; SRA C
+	DB 0cbh,2ah			; SRA D
+	DB 0cbh,2bh			; SRA E
+	DB 0cbh,2ch			; SRA H
+	DB 0cbh,2dh			; SRA L
+	DB 0cbh,2eh		; SRA (HL)
+	DB 0ddh,0cbh, + NAAM + 5,2eh	; SRA (IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,2eh	; SRA (IY + NAAM + 5)
+
+	DB 0cbh,3fh			; SRL A
+	DB 0cbh,38h			; SRL B
+	DB 0cbh,39h			; SRL C
+	DB 0cbh,3ah			; SRL D
+	DB 0cbh,3bh			; SRL E
+	DB 0cbh,3ch			; SRL H
+	DB 0cbh,3dh			; SRL L
+	DB 0cbh,3eh		; SRL (HL)
+	DB 0ddh,0cbh, + NAAM + 5,3eh	; SRL (IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,3eh	; SRL (IY + NAAM + 5)
+
+	DB 0cbh,047h 		; BIT 0,A
+	DB 0cbh,040h 		; BIT 0,B
+	DB 0cbh,041h 		; BIT 0,C
+	DB 0cbh,042h 		; BIT 0,D
+	DB 0cbh,043h 		; BIT 0,E
+	DB 0cbh,044h 		; BIT 0,H
+	DB 0cbh,045h 		; BIT 0,L
+	DB 0cbh,046h		; BIT 0,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,046h	; BIT 0,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,046h	; BIT 0,(IY + NAAM + 5)
+
+	DB 0cbh,04fh 		; BIT 1,A
+	DB 0cbh,048h 		; BIT 1,B
+	DB 0cbh,049h 		; BIT 1,C
+	DB 0cbh,04ah 		; BIT 1,D
+	DB 0cbh,04bh 		; BIT 1,E
+	DB 0cbh,04ch 		; BIT 1,H
+	DB 0cbh,04dh 		; BIT 1,L
+	DB 0cbh,04eh		; BIT 1,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,04eh	; BIT 1,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,04eh	; BIT 1,(IY + NAAM + 5)
+
+	DB 0cbh,057h 		; BIT 2,A
+	DB 0cbh,050h 		; BIT 2,B
+	DB 0cbh,051h 		; BIT 2,C
+	DB 0cbh,052h 		; BIT 2,D
+	DB 0cbh,053h 		; BIT 2,E
+	DB 0cbh,054h 		; BIT 2,H
+	DB 0cbh,055h 		; BIT 2,L
+	DB 0cbh,056h		; BIT 2,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,056h	; BIT 2,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,056h	; BIT 2,(IY + NAAM + 5)
+
+	DB 0cbh,07fh 		; BIT 7,A
+	DB 0cbh,078h 		; BIT 7,B
+	DB 0cbh,079h 		; BIT 7,C
+	DB 0cbh,07ah 		; BIT 7,D
+	DB 0cbh,07bh 		; BIT 7,E
+	DB 0cbh,07ch 		; BIT 7,H
+	DB 0cbh,07dh 		; BIT 7,L
+	DB 0cbh,07eh		; BIT 7,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,07eh	; BIT 7,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,07eh	; BIT 7,(IY + NAAM + 5)
+
+	DB 0cbh,0c7h 		; SET 0,A
+	DB 0cbh,0c0h 		; SET 0,B
+	DB 0cbh,0c1h 		; SET 0,C
+	DB 0cbh,0c2h 		; SET 0,D
+	DB 0cbh,0c3h 		; SET 0,E
+	DB 0cbh,0c4h 		; SET 0,H
+	DB 0cbh,0c5h 		; SET 0,L
+	DB 0cbh,0c6h		; SET 0,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,0c6h	; SET 0,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,0c6h	; SET 0,(IY + NAAM + 5)
+
+	DB 0cbh,0cfh 		; SET 1,A
+	DB 0cbh,0c8h 		; SET 1,B
+	DB 0cbh,0c9h 		; SET 1,C
+	DB 0cbh,0cah 		; SET 1,D
+	DB 0cbh,0cbh 		; SET 1,E
+	DB 0cbh,0cch 		; SET 1,H
+	DB 0cbh,0cdh 		; SET 1,L
+	DB 0cbh,0ceh		; SET 1,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,0ceh	; SET 1,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,0ceh	; SET 1,(IY + NAAM + 5)
+
+	DB 0cbh,0d7h 		; SET 2,A
+	DB 0cbh,0d0h 		; SET 2,B
+	DB 0cbh,0d1h 		; SET 2,C
+	DB 0cbh,0d2h 		; SET 2,D
+	DB 0cbh,0d3h 		; SET 2,E
+	DB 0cbh,0d4h 		; SET 2,H
+	DB 0cbh,0d5h 		; SET 2,L
+	DB 0cbh,0d6h		; SET 2,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,0d6h	; SET 2,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,0d6h	; SET 2,(IY + NAAM + 5)
+
+	DB 0cbh,0ffh 		; SET 7,A
+	DB 0cbh,0f8h 		; SET 7,B
+	DB 0cbh,0f9h 		; SET 7,C
+	DB 0cbh,0fah 		; SET 7,D
+	DB 0cbh,0fbh 		; SET 7,E
+	DB 0cbh,0fch 		; SET 7,H
+	DB 0cbh,0fdh 		; SET 7,L
+	DB 0cbh,0feh		; SET 7,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,0feh	; SET 7,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,0feh	; SET 7,(IY + NAAM + 5)
+
+	DB 0cbh,087h 		; RES 0,A
+	DB 0cbh,080h 		; RES 0,B
+	DB 0cbh,081h 		; RES 0,C
+	DB 0cbh,082h 		; RES 0,D
+	DB 0cbh,083h 		; RES 0,E
+	DB 0cbh,084h 		; RES 0,H
+	DB 0cbh,085h 		; RES 0,L
+	DB 0cbh,086h		; RES 0,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,086h	; RES 0,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,086h	; RES 0,(IY + NAAM + 5)
+
+	DB 0cbh,08fh 		; RES 1,A
+	DB 0cbh,088h 		; RES 1,B
+	DB 0cbh,089h 		; RES 1,C
+	DB 0cbh,08ah 		; RES 1,D
+	DB 0cbh,08bh 		; RES 1,E
+	DB 0cbh,08ch 		; RES 1,H
+	DB 0cbh,08dh 		; RES 1,L
+	DB 0cbh,08eh		; RES 1,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,08eh	; RES 1,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,08eh	; RES 1,(IY + NAAM + 5)
+
+	DB 0cbh,097h 		; RES 2,A
+	DB 0cbh,090h 		; RES 2,B
+	DB 0cbh,091h 		; RES 2,C
+	DB 0cbh,092h 		; RES 2,D
+	DB 0cbh,093h 		; RES 2,E
+	DB 0cbh,094h 		; RES 2,H
+	DB 0cbh,095h 		; RES 2,L
+	DB 0cbh,096h		; RES 2,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,096h	; RES 2,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,096h	; RES 2,(IY + NAAM + 5)
+
+	DB 0cbh,0bfh 		; RES 7,A
+	DB 0cbh,0b8h 		; RES 7,B
+	DB 0cbh,0b9h 		; RES 7,C
+	DB 0cbh,0bah 		; RES 7,D
+	DB 0cbh,0bbh 		; RES 7,E
+	DB 0cbh,0bch 		; RES 7,H
+	DB 0cbh,0bdh 		; RES 7,L
+	DB 0cbh,0beh		; RES 7,(HL)
+	DB 0ddh,0cbh, + NAAM + 5,0beh	; RES 7,(IX + NAAM + 5)
+	DB 0fdh,0cbh, + NAAM + 5,0beh	; RES 7,(IY + NAAM + 5)
+
+
+	DB 10h,( NAAM + 5)-$-1		; DJNZ NAAM + 5
+	DB 0e9h 		; JP (HL)
+	DB 0ddh,0e9h 		; JP (IX)
+	DB 0fdh,0e9h 		; JP (IY)
+
+	DB 0c3h
+	DW  NAAM + 5		; JP NAAM + 5
+	DB 0c3h
+	DW  5 + NAAM		; JP 5 + NAAM
+
+	DB 0c2h
+	DW  NAAM + 5 	; JP NZ, NAAM + 5
+	DB 0cah
+	DW   NAAM + 5 	; JP Z,  NAAM + 5
+	DB 0d2h
+	DW  NAAM + 5 	; JP NC, NAAM + 5
+	DB 0dah
+	DW   NAAM + 5 	; JP C,  NAAM + 5
+	DB 0e2h
+	DW  NAAM + 5 	; JP PO, NAAM + 5
+	DB 0eah
+	DW  NAAM + 5 	; JP PE, NAAM + 5
+	DB 0f2h
+	DW   NAAM + 5 	; JP P,  NAAM + 5
+	DB 0fah
+	DW   NAAM + 5 	; JP M,  NAAM + 5
+
+	DB 18h,( NAAM + 5)-$-1		; JR NAAM + 5
+	DB 18h,( 5 + NAAM)-$-1		; JR 5 + NAAM
+	DB 20h,( NAAM + 5)-$-1 	; JR NZ, NAAM + 5
+	DB 28h,(  NAAM + 5)-$-1 	; JR Z,  NAAM + 5
+	DB 30h,( NAAM + 5)-$-1 	; JR NC, NAAM + 5
+	DB 38h,(  NAAM + 5)-$-1 	; JR C,  NAAM + 5
+
+	DB 0cdh
+	DW  NAAM + 5		; CALL NAAM + 5
+	DB 0c4h
+	DW NAAM + 5	; CALL NZ,NAAM + 5
+	DB 0cch
+	DW NAAM + 5 	; CALL Z,NAAM + 5
+	DB 0d4h
+	DW NAAM + 5	; CALL NC,NAAM + 5
+	DB 0dch
+	DW NAAM + 5 	; CALL C,NAAM + 5
+	DB 0e4h
+	DW NAAM + 5	; CALL PO,NAAM + 5
+	DB 0ech
+	DW NAAM + 5	; CALL PE,NAAM + 5
+	DB 0f4h
+	DW NAAM + 5 	; CALL P,NAAM + 5
+	DB 0fch
+	DW NAAM + 5 	; CALL M,NAAM + 5
+
+	DB 0c9h			; RET
+	DB 0c0h			; RET NZ
+	DB 0c8h			; RET Z
+	DB 0d0h			; RET NC
+	DB 0d8h			; RET C
+	DB 0e0h			; RET PO
+	DB 0e8h			; RET PE
+	DB 0f0h			; RET P
+	DB 0f8h			; RET M
+
+
+	DB 0edh,4dh			; RETI
+	DB 0edh,45h			; RETN
+
+;	END
+
+	DB 0dbh,NAAM + 5 	; IN A,(NAAM + 5)
+	DB 0edh,070h		; IN F,(C)
+	DB 0edh,078h		; IN A,(C)
+	DB 0edh,040h		; IN B,(C)
+	DB 0edh,048h		; IN C,(C)
+	DB 0edh,050h		; IN D,(C)
+	DB 0edh,058h		; IN E,(C)
+	DB 0edh,060h		; IN H,(C)
+	DB 0edh,068h		; IN L,(C)
+
+	DB 0d3h,NAAM * NAAM	; OUT (NAAM * NAAM ),A
+	DB 0edh,079h		; OUT (C),A
+	DB 0edh,041h		; OUT (C),B
+	DB 0edh,049h		; OUT (C),C
+	DB 0edh,051h		; OUT (C),D
+	DB 0edh,059h		; OUT (C),E
+	DB 0edh,061h		; OUT (C),H
+	DB 0edh,069h		; OUT (C),L
+
+	DB 0edh,0a2h			; INI
+	DB 0edh,0b2h			; INIR
+	DB 0edh,0aah			; IND
+	DB 0edh,0bah			; INDR
+	DB 0edh,0a3h			; OUTI
+	DB 0edh,0b3h			; OTIR
+	DB 0edh,0abh			; OUTD
+	DB 0edh,0bbh			; OTDR
+
+	DB 0e9h
